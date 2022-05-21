@@ -9,6 +9,7 @@ The repository considts of the Dockerfile which contains commands to build the i
   2) docker build . -t app
   3) docker run -itd -p 80:8080 app
   4) Visit the browser where the appliocation is running at port 80
+  5) Added webhook
 <b>    
  PublicIP:8080/CounterWebApp/
 </b>
